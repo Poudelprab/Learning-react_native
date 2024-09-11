@@ -4,7 +4,7 @@ import React from 'react'
 const TextComponents= ()=>
 {
     return (
-    <Text>This is just random text</Text>
+    <Text>This is just random text.</Text>
 )
 }
 
