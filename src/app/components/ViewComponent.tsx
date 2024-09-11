@@ -4,7 +4,7 @@ import React from 'react'
 const ViewComponent = () => {
   return (
     <View>
-      <Text>ViewComponent</Text>
+      <Text> This is ViewComponent</Text>
     </View>
   )
 }
