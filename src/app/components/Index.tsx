@@ -17,7 +17,7 @@ function Index()  {
       <ButtonComp/>
       <ImageComponent/>
     
-     <Text>Home Screen</Text>
+     <Text> This Is Home Screen</Text>
     </View>
   )
 }
