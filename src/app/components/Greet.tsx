@@ -4,7 +4,7 @@ import React from 'react'
 const Greet = () => {
   return (
     <View>
-      <Text>I study Bachelors in computer application.</Text>
+      <Text>I study Bachelors in computer application..</Text>
     </View>
   )
 }
