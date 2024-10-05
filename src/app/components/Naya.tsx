@@ -4,7 +4,7 @@ import React from 'react'
 const Naya = () => {
   return (
     <View>
-      <Text>I like react native</Text>
+      <Text>I like react native..</Text>
     </View>
   )
 }
